@@ -1,35 +1,56 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Programming Languages",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "JavaScript", "level": 2, "icon": "skill-icons:javascript" },
+        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
+        { "name": "C#", "level": 2, "icon": "skill-icons:cs" },
+        { "name": "PHP", "level": 2, "icon": "skill-icons:php-dark" }
       ]
     },
     {
       "title": "Frontend",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
+        { "name": "Astro", "level": 1, "icon": "skill-icons:astro" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "JavaScript", "level": 1, "icon": "skill-icons:javascript" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Backend & Frameworks",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": ".NET", "level": 2, "icon": "skill-icons:dotnet" },
+        { "name": "ASP.NET", "level": 2, "icon": "skill-icons:dotnet" },
+        { "name": "MVC", "level": 2, "icon": "skill-icons:dotnet" }
       ]
     },
     {
-      "title": "Database",
+      "title": "Databases",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "MySQL", "level": 3, "icon": "skill-icons:mysql-dark" },
+        { "name": "SQL Server", "level": 3, "icon": "skill-icons:mssqlserver-dark" }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "skills": [
+        { "name": "Git", "level": 2, "icon": "skill-icons:git" },
+        { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" },
+        { "name": "Power BI", "level": 3, "icon": "skill-icons:powerbi" },
+        { "name": "Power Apps", "level": 3, "icon": "skill-icons:powerapps" },
+        { "name": "Power Automate", "level": 3, "icon": "skill-icons:powerautomate" },
+        { "name": "SharePoint", "level": 3, "icon": "skill-icons:sharepoint" }
+      ]
+    },
+    {
+      "title": "Methodologies",
+      "skills": [
+        { "name": "Scrum", "level": 2, "icon": "mdi:account-group" },
+        { "name": "Kanban", "level": 2, "icon": "mdi:view-column" },
+        { "name": "CI/CD", "level": 2, "icon": "mdi:pipe" }
       ]
     }
   ]
