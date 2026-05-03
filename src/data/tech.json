@@ -31,18 +31,18 @@
       "title": "Databases",
       "skills": [
         { "name": "MySQL", "level": 3, "icon": "skill-icons:mysql-dark" },
-        { "name": "SQL Server", "level": 3, "icon": "skill-icons:mssqlserver-dark" }
+        { "name": "SQL Server", "level": 3, "icon": "skill-icons:mysql-dark" }
       ]
     },
     {
       "title": "Tools & Platforms",
       "skills": [
-        { "name": "Git", "level": 2, "icon": "skill-icons:git" },
-        { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" },
-        { "name": "Power BI", "level": 3, "icon": "skill-icons:powerbi" },
-        { "name": "Power Apps", "level": 3, "icon": "skill-icons:powerapps" },
-        { "name": "Power Automate", "level": 3, "icon": "skill-icons:powerautomate" },
-        { "name": "SharePoint", "level": 3, "icon": "skill-icons:sharepoint" }
+        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "GitHub", "level": 3, "icon": "skill-icons:github-dark" },
+        { "name": "Power BI", "level": 3, "icon": "mdi:chart-bar" },
+        { "name": "Power Apps", "level": 3, "icon": "mdi:application" },
+        { "name": "Power Automate", "level": 3, "icon": "mdi:lightning-bolt" },
+        { "name": "SharePoint", "level": 3, "icon": "mdi:microsoft-sharepoint" }
       ]
     },
     {
