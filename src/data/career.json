@@ -1,26 +1,26 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "Florida Ice and Farm Company (FIFCO)",
+    "role": "Intern – Quality & Food Safety",
+    "period": "2024 - Present",
+    "type": "Internship",
+    "description": "Developed internal applications using Microsoft Power Platform. Supported process automation and operational improvements across quality and food safety workflows.",
+    "skills": ["Power Apps", "Power Automate", "Process Automation", "Microsoft Power Platform"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "Universidad (Proyecto de Graduación)",
+    "role": "Full-stack Developer – USIVENT",
+    "period": "2023 - 2024",
+    "type": "Graduation Project",
+    "description": "Developed a web-based system for managing academic events including registration, enrollment, and capacity control. Implemented modules for users, events, and administrative dashboard using MVC architecture.",
+    "skills": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "MVC"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "TCU – Trabajo Comunal Universitario",
+    "role": "SQL Instructor",
+    "period": "2023 - 2024",
+    "type": "Community Service",
+    "description": "Delivered a 150-hour Basic SQL course to 20+ students covering database fundamentals, query development, and hands-on exercises in data retrieval and troubleshooting.",
+    "skills": ["SQL", "MySQL", "Teaching", "Database Design", "Query Optimization"]
   }
 ]
