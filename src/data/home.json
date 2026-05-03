@@ -1,5 +1,5 @@
 {
-  "name": "John Doe",
+  "name": "Anyeline Abarca",
   "photoUrl": "favicon.svg",
   "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
   "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
@@ -16,7 +16,7 @@
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/MaleskyAnyelineAbarcaSegura",
+      "url": "https://www.linkedin.com/in/malesky-anyeline-abarca-segura-010310313",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
