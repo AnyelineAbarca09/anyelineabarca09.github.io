@@ -50,7 +50,7 @@
       "skills": [
         { "name": "Scrum", "level": 2, "icon": "mdi:account-group" },
         { "name": "Kanban", "level": 2, "icon": "mdi:view-column" },
-        { "name": "CI/CD", "level": 2, "icon": "mdi:pipe" }
+        { "name": "CI/CD", "level": 1, "icon": "mdi:pipe" }
       ]
     }
   ]
