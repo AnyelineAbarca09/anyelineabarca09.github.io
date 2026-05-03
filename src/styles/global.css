@@ -110,6 +110,23 @@
     --color-subtext: #71665f;
     --color-textrain: #e2a787;
   }
+  /* Anyeline Theme - Dark */
+[data-theme="anyeline-dark"] {
+  --color-background: #0F0D29;
+  --color-accent: #F472B6;
+  --color-maintext: #FFFFFF;
+  --color-subtext: #d4b2c4;
+  --color-textrain: #9c7b8c;
+}
+
+/* Anyeline Theme - Light */
+[data-theme="anyeline-light"] {
+  --color-background: #FDF2F8;
+  --color-accent: #E879A0;
+  --color-maintext: #3D0A22;
+  --color-subtext: #7a4d60;
+  --color-textrain: #c99ab0;
+}
 
 
   /* Core Element Styles */
