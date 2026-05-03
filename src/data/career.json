@@ -2,7 +2,7 @@
   {
     "company": "Florida Ice and Farm Company (FIFCO)",
     "role": "Intern – Quality & Food Safety",
-    "period": "2024 - Present",
+    "period": "2026 - Present",
     "type": "Internship",
     "description": "Developed internal applications using Microsoft Power Platform. Supported process automation and operational improvements across quality and food safety workflows.",
     "skills": ["Power Apps", "Power Automate", "Process Automation", "Microsoft Power Platform"]
@@ -10,15 +10,15 @@
   {
     "company": "Universidad (Proyecto de Graduación)",
     "role": "Full-stack Developer – USIVENT",
-    "period": "2023 - 2024",
+    "period": "September 2025 - December 2025",
     "type": "Graduation Project",
     "description": "Developed a web-based system for managing academic events including registration, enrollment, and capacity control. Implemented modules for users, events, and administrative dashboard using MVC architecture.",
     "skills": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "MVC"]
   },
   {
-    "company": "TCU – Trabajo Comunal Universitario",
+    "company": "TCU – Trabajo Comunal Universitario 150h",
     "role": "SQL Instructor",
-    "period": "2023 - 2024",
+    "period": "February 2025- May 2025",
     "type": "Community Service",
     "description": "Delivered a 150-hour Basic SQL course to 20+ students covering database fundamentals, query development, and hands-on exercises in data retrieval and troubleshooting.",
     "skills": ["SQL", "MySQL", "Teaching", "Database Design", "Query Optimization"]
