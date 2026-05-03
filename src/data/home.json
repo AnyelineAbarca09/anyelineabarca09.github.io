@@ -29,15 +29,15 @@
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/84526164",
+      "url": "https://wa.me/50684526164",
       "icon": "mdi:whatsapp",
       "showInContact": true
     },
     {
       "name": "Instagram",
-      "url": "#",
+      "url": "https://www.instagram.com/_anyeline.s",
       "icon": "mdi:instagram",
-      "showInContact": false
+      "showInContact": true
     }
     
   ]
