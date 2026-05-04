@@ -19,6 +19,12 @@ const defaultTheme = `${baseTheme}-dark`;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="/favicon.ico" />
     <title>{title}</title>
+    <meta property="og:title" content="Portafolio - Malesky Anyeline Abarca" />
+    <meta property="og:description" content="Background in Systems Engineering and Health Records and Statistics" />
+    <meta property="og:image" content="https://anyelineabarca09.github.io/portadaportafolio.png" />
+    <meta property="og:url" content="https://anyelineabarca09.github.io/" />
+    <meta property="og:type" content="website" />
+
 
     <!-- THEME TOGGLE SCRIPT -->
     <script is:inline define:vars={{ baseTheme, defaultTheme }}>
@@ -31,7 +37,6 @@ const defaultTheme = `${baseTheme}-dark`;
         localStorage.setItem('theme', defaultTheme);
       }
     </script>
-
   </head>
   <body class="bg-container relative min-h-screen overflow-x-hidden antialiased">
     <div 
