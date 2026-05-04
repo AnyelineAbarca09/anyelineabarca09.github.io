@@ -4,8 +4,8 @@
       "title": "Programming Languages",
       "skills": [
         { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "JavaScript", "level": 2, "icon": "skill-icons:javascript" },
-        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
+        { "name": "JavaScript", "level": 1, "icon": "skill-icons:javascript" },
+        { "name": "Java", "level": 1, "icon": "skill-icons:java-dark" },
         { "name": "C#", "level": 2, "icon": "skill-icons:cs" },
         { "name": "PHP", "level": 2, "icon": "skill-icons:php-dark" }
       ]
@@ -37,12 +37,12 @@
     {
       "title": "Tools & Platforms",
       "skills": [
-        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
-        { "name": "GitHub", "level": 3, "icon": "skill-icons:github-dark" },
-        { "name": "Power BI", "level": 3, "icon": "mdi:chart-bar" },
-        { "name": "Power Apps", "level": 3, "icon": "mdi:application" },
-        { "name": "Power Automate", "level": 3, "icon": "mdi:lightning-bolt" },
-        { "name": "SharePoint", "level": 3, "icon": "mdi:microsoft-sharepoint" }
+        { "name": "Git", "level": 2, "icon": "skill-icons:git" },
+        { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" },
+        { "name": "Power BI", "level": 2, "icon": "mdi:chart-bar" },
+        { "name": "Power Apps", "level": 2, "icon": "mdi:application" },
+        { "name": "Power Automate", "level": 2, "icon": "mdi:lightning-bolt" },
+        { "name": "SharePoint", "level": 2, "icon": "mdi:microsoft-sharepoint" }
       ]
     },
     {
